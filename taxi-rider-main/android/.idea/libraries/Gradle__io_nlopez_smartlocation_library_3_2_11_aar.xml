@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: io.nlopez.smartlocation:library:3.2.11@aar">
+    <CLASSES>
+      <root url="jar:///usr/local/Cellar/gradle/6.5/caches/transforms-2/files-2.1/3bff03a5478174cd49c828b74da37d65/jetified-library-3.2.11/jars/classes.jar!/" />
+      <root url="file:///usr/local/Cellar/gradle/6.5/caches/transforms-2/files-2.1/3bff03a5478174cd49c828b74da37d65/jetified-library-3.2.11/res" />
+      <root url="file:///usr/local/Cellar/gradle/6.5/caches/transforms-2/files-2.1/3bff03a5478174cd49c828b74da37d65/jetified-library-3.2.11/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/245cba0ee8842ba93f1ce6a379c234bb/jetified-library-3.2.11/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/245cba0ee8842ba93f1ce6a379c234bb/jetified-library-3.2.11/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/245cba0ee8842ba93f1ce6a379c234bb/jetified-library-3.2.11/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

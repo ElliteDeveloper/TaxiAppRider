@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Skystep.iml" filepath="$PROJECT_DIR$/.idea/modules/Skystep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Skystep.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Skystep.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2108317582/Skystep.expo-application.iml" filepath="$PROJECT_DIR$/.idea/modules/2108317582/Skystep.expo-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/38302199/Skystep.expo-av.iml" filepath="$PROJECT_DIR$/.idea/modules/38302199/Skystep.expo-av.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2017893389/Skystep.expo-constants.iml" filepath="$PROJECT_DIR$/.idea/modules/2017893389/Skystep.expo-constants.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-309229181/Skystep.expo-crypto.iml" filepath="$PROJECT_DIR$/.idea/modules/-309229181/Skystep.expo-crypto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-926939268/Skystep.expo-error-recovery.iml" filepath="$PROJECT_DIR$/.idea/modules/-926939268/Skystep.expo-error-recovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-271823352/Skystep.expo-facebook.iml" filepath="$PROJECT_DIR$/.idea/modules/-271823352/Skystep.expo-facebook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1578372574/Skystep.expo-file-system.iml" filepath="$PROJECT_DIR$/.idea/modules/1578372574/Skystep.expo-file-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-481491191/Skystep.expo-font.iml" filepath="$PROJECT_DIR$/.idea/modules/-481491191/Skystep.expo-font.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/802179079/Skystep.expo-image-loader.iml" filepath="$PROJECT_DIR$/.idea/modules/802179079/Skystep.expo-image-loader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1104770434/Skystep.expo-image-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/1104770434/Skystep.expo-image-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-515007233/Skystep.expo-keep-awake.iml" filepath="$PROJECT_DIR$/.idea/modules/-515007233/Skystep.expo-keep-awake.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-148449258/Skystep.expo-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/-148449258/Skystep.expo-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/857338871/Skystep.expo-location.iml" filepath="$PROJECT_DIR$/.idea/modules/857338871/Skystep.expo-location.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1542613082/Skystep.expo-notifications.iml" filepath="$PROJECT_DIR$/.idea/modules/-1542613082/Skystep.expo-notifications.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1480741189/Skystep.expo-permissions.iml" filepath="$PROJECT_DIR$/.idea/modules/1480741189/Skystep.expo-permissions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-631205811/Skystep.expo-secure-store.iml" filepath="$PROJECT_DIR$/.idea/modules/-631205811/Skystep.expo-secure-store.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2128185168/Skystep.expo-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/2128185168/Skystep.expo-splash-screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-604471858/Skystep.expo-sqlite.iml" filepath="$PROJECT_DIR$/.idea/modules/-604471858/Skystep.expo-sqlite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1008287752/Skystep.expo-updates.iml" filepath="$PROJECT_DIR$/.idea/modules/1008287752/Skystep.expo-updates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1184979750/Skystep.react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/-1184979750/Skystep.react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1173408719/Skystep.react-native-firebase_auth.iml" filepath="$PROJECT_DIR$/.idea/modules/1173408719/Skystep.react-native-firebase_auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-163331806/Skystep.react-native-firebase_database.iml" filepath="$PROJECT_DIR$/.idea/modules/-163331806/Skystep.react-native-firebase_database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1245274444/Skystep.react-native-firebase_storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-1245274444/Skystep.react-native-firebase_storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1499921463/Skystep.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/1499921463/Skystep.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1172370820/Skystep.react-native-maps.iml" filepath="$PROJECT_DIR$/.idea/modules/-1172370820/Skystep.react-native-maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/843094917/Skystep.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/843094917/Skystep.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1404787448/Skystep.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1404787448/Skystep.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1157652223/Skystep.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/1157652223/Skystep.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/663730026/Skystep.react-native-webview.iml" filepath="$PROJECT_DIR$/.idea/modules/663730026/Skystep.react-native-webview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/204372732/Skystep.unimodules-app-loader.iml" filepath="$PROJECT_DIR$/.idea/modules/204372732/Skystep.unimodules-app-loader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2079794304/Skystep.unimodules-barcode-scanner-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/-2079794304/Skystep.unimodules-barcode-scanner-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1115074930/Skystep.unimodules-camera-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/-1115074930/Skystep.unimodules-camera-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/502365662/Skystep.unimodules-constants-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/502365662/Skystep.unimodules-constants-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/542683504/Skystep.unimodules-core.iml" filepath="$PROJECT_DIR$/.idea/modules/542683504/Skystep.unimodules-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/69379205/Skystep.unimodules-face-detector-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/69379205/Skystep.unimodules-face-detector-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/207132975/Skystep.unimodules-file-system-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/207132975/Skystep.unimodules-file-system-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1476240504/Skystep.unimodules-font-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/1476240504/Skystep.unimodules-font-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/846478958/Skystep.unimodules-image-loader-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/846478958/Skystep.unimodules-image-loader-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/25532691/Skystep.unimodules-permissions-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/25532691/Skystep.unimodules-permissions-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1261309304/Skystep.unimodules-react-native-adapter.iml" filepath="$PROJECT_DIR$/.idea/modules/1261309304/Skystep.unimodules-react-native-adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1061982520/Skystep.unimodules-sensors-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/-1061982520/Skystep.unimodules-sensors-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-903289586/Skystep.unimodules-task-manager-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/-903289586/Skystep.unimodules-task-manager-interface.iml" />
+    </modules>
+  </component>
+</project>

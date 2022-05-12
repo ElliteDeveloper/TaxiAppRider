@@ -1,0 +1,1 @@
+export const google_map_key = 'AIzaSyAD750rfCEsekwor6b3CcTezTELK1x4ZnM';

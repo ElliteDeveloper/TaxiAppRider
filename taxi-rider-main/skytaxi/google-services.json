@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "973504609258",
+    "firebase_url": "https://skystep.firebaseio.com",
+    "project_id": "skystep",
+    "storage_bucket": "skystep.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973504609258:android:83550fbec1231bdf451093",
+        "android_client_info": {
+          "package_name": "com.customer.skystep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973504609258-so1vh038vm48kjk9pco1gm4dhvpnam16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuDfxXzXQvN-I8qzTHul984Vif1Ap49ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973504609258-so1vh038vm48kjk9pco1gm4dhvpnam16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

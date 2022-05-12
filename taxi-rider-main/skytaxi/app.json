@@ -1,0 +1,77 @@
+{
+  "expo": {
+    "name": "Skystep",
+    "description": "Taxi Booking App",
+    "slug": "skystep",
+    "privacy": "public",
+    "notification": {
+      "icon": "./assets/images/push_notification.png"
+    },
+    "version": "4.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/appIcon.png",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "usesAppleSignIn": true,
+      "bundleIdentifier": "com.customer.skystep",
+      "infoPlist": {
+        "NSLocationAlwaysUsageDescription": "This app uses the location to find the Cabs near you.",
+        "NSLocationWhenInUseUsageDescription": "This app uses the location to find the Cabs near you.",
+        "NSCameraUsageDescription": "This app uses the camera to take your profile picture.",
+        "NSPhotoLibraryUsageDescription": "This app uses Photo Library for uploading your profile picture.",
+        "UIBackgroundModes": [
+          "location",
+          "fetch"
+        ]
+      },
+      "config": {
+        "googleMapsApiKey": "AIzaSyBuDfxXzXQvN-I8qzTHul984Vif1Ap49ss"
+      }
+    },
+    "android": {
+      "package": "com.customer.skystep",
+      "versionCode": 4,
+      "useNextNotificationsApi": true,
+      "icon": "./assets/images/appIcon.png",
+      "permissions": [
+        "LOCATION",
+        "ACCESS_COARSE_LOCATION",
+        "ACCESS_FINE_LOCATION",
+        "MANAGE_DOCUMENTS",
+        "READ_CONTACTS",
+        "READ_EXTERNAL_STORAGE",
+        "READ_PHONE_STATE",
+        "VIBRATE",
+        "WAKE_LOCK",
+        "WRITE_EXTERNAL_STORAGE",
+        "com.anddoes.launcher.permission.UPDATE_COUNT",
+        "com.android.launcher.permission.INSTALL_SHORTCUT",
+        "com.google.android.c2dm.permission.RECEIVE",
+        "com.google.android.gms.permission.ACTIVITY_RECOGNITION",
+        "com.google.android.providers.gsf.permission.READ_GSERVICES",
+        "com.htc.launcher.permission.READ_SETTINGS",
+        "com.htc.launcher.permission.UPDATE_SHORTCUT",
+        "com.majeur.launcher.permission.UPDATE_BADGE",
+        "com.sec.android.provider.badge.permission.READ",
+        "com.sec.android.provider.badge.permission.WRITE"
+      ],
+      "googleServicesFile": "./google-services.json",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyBuDfxXzXQvN-I8qzTHul984Vif1Ap49ss"
+        }
+      }
+    }
+  }
+}
